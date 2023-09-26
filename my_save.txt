@@ -1,0 +1,2 @@
+{'namn': 'Kalle', 'efternamn': 'Anka', 'ålder': 2}
+{'namn': 'Musse', 'efternamn': 'Pigg', 'ålder': 33}
