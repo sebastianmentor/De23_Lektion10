@@ -1,0 +1,16 @@
+a antal 8
+s antal 7
+d antal 4
+k antal 8
+l antal 5
+j antal 7
+f antal 8
+e antal 5
+  antal 12
+q antal 2
+w antal 2
+8 antal 3
+9 antal 3
+2 antal 3
+3 antal 3
+r antal 1
